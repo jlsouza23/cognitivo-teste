@@ -1,5 +1,5 @@
-# cognitivo-teste
-# # Para executar o processo com sucesso será necessário executar os passos abaixo
+# # cognitivo-teste
+# Para executar o processo com sucesso será necessário executar os passos abaixo
 
 0- git clone do repositorio
 1- Criar o bucket no s3: s3_cognitivo
@@ -11,7 +11,7 @@
 4- Criar a lambda: create-emr-up.py 
     - Essa lambda irá subir o cluster emr e fazer o spark submit do script job-spark.py.
 
-# # Outra forma para executar o script é seguir os passos acima ate no numero 3, subir um cluster EMR e fazer o submit do script job-spark.py
+# Outra forma para executar o script é seguir os passos acima ate no numero 3, subir um cluster EMR e fazer o submit do script job-spark.py
 
 Esse script seguira os seguintes passos:
 1 - carregar o csv em um dataframe
