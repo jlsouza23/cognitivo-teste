@@ -1,7 +1,7 @@
 # # cognitivo-teste
 # Para executar o processo com sucesso será necessário executar os passos abaixo
 
-0- git clone do repositorio \n
+0- git clone do repositorio<br />
 1- Criar o bucket no s3: s3_cognitivo
 2- Criar as subpastas: "output", "input", "config", "job_spark"
 3- Upload dos arquivos conforme abaixo:
