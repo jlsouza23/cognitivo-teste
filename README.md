@@ -18,5 +18,6 @@ Esse script seguira os seguintes passos:<br />
 2 - converter de csv para parquet<br />
 4 - selecionar 3 campos do dataframe inicial<br />
 5 - salvar esse dataframe com 3 campos<br />
+6 - catalogar no glue
 6 - criar a estutura usada para converter o schema do parquet de acordo com o json de configuração<br />
 7 - carregar o parquet com o novo schema<br />
